@@ -13,7 +13,7 @@ export default function TelaLoginCadastro() {
       {/* Imagem à esquerda */}
       <div className="hidden md:block w-full h-screen">
         <img
-          src="assets/login-img.jpg"
+          src="assets/img-boa.png"
           alt="Visual"
           className="w-full h-full object-cover"
         />
